@@ -18,5 +18,5 @@ This project is part of an academic assignment. Contributions are not required, 
 
                         # License
 
- This project is for academic purposes only.
+ This project is license for academic purposes only.
 
